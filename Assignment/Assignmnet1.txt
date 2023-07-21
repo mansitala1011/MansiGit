@@ -1,0 +1,14 @@
+1. What is software? What is software engineering?
+-> Software is a set of instructions, data or programs used to operate computers and execute specific tasks. It is the opposite of hardware, which describes the physical aspects of a computer. Software is a generic term used to refer to applications, scripts and programs that run on a device.
+Software is more than just a program code. A program is an executable code, which serves some computational purpose. Software is considered to be collection of executable programming code, associated libraries and documentations. Software, when made for a specific requirement is called software product.
+
+2.Explain types of software.
+-> The two main categories of software are application software and system software. An application is software that fulfills a specific need or performs tasks. System software is designed to run a computer's hardware and provides a platform for applications to run on top of.
+
+3.What is SDLC? Explain each phase of SDLC.
+-> The software development lifecycle (SDLC) is the cost-effective and time-efficient process that development teams use to design and build high-quality software. The goal of SDLC is to minimize project risks through forward planning so that software meets customer expectations during production and beyond.
+# EACH PHASE OF SDLC:-
+These included planning, creating, developing, testing, and deploying. Note that it left out the major stages of analysis and maintenance. What Are the 7 Phases of SDLC? The new seven phases of SDLC include planning, analysis, design, development, testing, implementation, and maintenance.
+
+4.What is DFD? Create a DFD diagram on Flipkart.
+-> A data flow diagram (DFD) maps out the flow of information for any process or system. It uses defined symbols like rectangles, circles and arrows, plus short text labels, to show data inputs, outputs, storage points and the routes between each destination.
