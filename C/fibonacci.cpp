@@ -4,6 +4,7 @@ int main()
 	int n,a=0,b=1,c,i;
 	printf("enter number of turm...");
 	scanf("%d",&n);
+	
 	for(i=0;i<=n;i++)
 	{
 		printf("%d",a);
